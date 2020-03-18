@@ -1,7 +1,6 @@
-# 11-complex-data
-# Core skills program - week 11 - Special Data Types: Networks and Time series
+# CORE Skills Data Science Springboard - Day 11 - Special Data Types: Networks and Time series
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/core-skills/08-time-network-analysis.git/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/core-skills/11-complex-data.git/master)
 
 Today's session will introduce techniques to handle time series data. We will have a look at optimisation and genetic algorithms (GA), linear autoregressive models (AR), local constant models, and nonlinear global models. We will also discuss the complex network approach to time series data and how to use network properties to get insights about your data.  
 
@@ -18,9 +17,9 @@ You should aim to understand:
 
 We will use python notebooks exercises on different datasets to have a practical go on the discussed methods in practise. Have a go and check if everything is running on your machine before the class.  
 
-For the complex network analysis, we will use **networkx**. You can find the documentation of  this package [here](https://networkx.github.io). 
+For the complex network analysis, we will use **networkx**. You can find the documentation of  this package [here](https://networkx.github.io).
 
-Stack Overflow is a useful website to find solutions for when you get stuck with python and libraries: 
+Stack Overflow is a useful website to find solutions for when you get stuck with python and libraries:
 https://stackoverflow.com/questions/tagged/networkx
 https://stackoverflow.com/questions/tagged/gdal.
 
@@ -40,7 +39,7 @@ The Conversation:
 Genetic Algorithms with Python - Clinton Sheppard.
 Source code from the book: https://github.com/handcraftsman/GeneticAlgorithmsWithPython
 
-M. Small. Applied Nonlinear Time Series Analysis: Applications in Physics, Physiology and Finance. Nonlinear Science Series A, vol. 52. World Scientific, 2005. 
+M. Small. Applied Nonlinear Time Series Analysis: Applications in Physics, Physiology and Finance. Nonlinear Science Series A, vol. 52. World Scientific, 2005.
 
 M. Small. Dynamics of Biological Systems., Mathematics and Computational Biology Series, Chapman & Hall/CRC, 2011.
 
