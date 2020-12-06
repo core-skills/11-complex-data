@@ -1,4 +1,4 @@
-name: day11
+name: week11
 channels:
   - conda-forge
   - defaults
@@ -7,8 +7,12 @@ dependencies:
   - numpy
   - pandas
   - matplotlib
+  - seaborn
+  - networkx
+  - gdal
   - jupyter
   - notebook
-  - networkx
+  - jupyterlab
   - scipy
   - numba
+  - libgdal
