@@ -23,6 +23,13 @@ Stack Overflow is a useful website to find solutions for when you get stuck with
 https://stackoverflow.com/questions/tagged/networkx
 https://stackoverflow.com/questions/tagged/gdal.
 
+**LinkedIn Data**:
+
+For part of the exercises of today we will be anaylsing social network data. I will be using my own (public) LinkedIn network as an example, you may prefer to follow along with your own data. However, to do this you need to retrieve your data from LinkedIn. They will let you do this (``your data belongs to you''), but they don't make it easy and claim that the process takes 24 hours. If you want to do this (it is not compulsory) follow the following steps:
+- Log into LinkedIn and go to Me -> Settings and Privacy -> How LinkedIn uses your data->Getting a copy of your data
+- Enter your details (you'll need to reenter your password) and wait. 
+- LinkedIn will send you an email with details of how to obtain your data when the download is ready.
+
 **Pre-reading**:
 
 These are suggested pre-reading before the final case study of the day (session 4).
