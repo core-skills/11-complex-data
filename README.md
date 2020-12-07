@@ -1,6 +1,6 @@
 # CORE Skills Data Science Springboard - Day 11 - Special Data Types: Networks and Time series
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/core-skills/11-complex-data.git/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/core-skills/11-complex-data.git/master?urlpath=/lab/tree/notebooks/)
 
 Today's session will introduce techniques to handle time series data. We will have a look at optimisation and genetic algorithms (GA), linear autoregressive models (AR), local constant models, and nonlinear global models. We will also discuss the complex network approach to time series data and how to use network properties to get insights about your data.  
 
@@ -27,7 +27,7 @@ https://stackoverflow.com/questions/tagged/gdal.
 
 For part of the exercises of today we will be anaylsing social network data. I will be using my own (public) LinkedIn network as an example, you may prefer to follow along with your own data. However, to do this you need to retrieve your data from LinkedIn. They will let you do this (``your data belongs to you''), but they don't make it easy and claim that the process takes 24 hours. If you want to do this (it is not compulsory) follow the following steps:
 - Log into LinkedIn and go to Me -> Settings and Privacy -> How LinkedIn uses your data->Getting a copy of your data
-- Enter your details (you'll need to reenter your password) and wait. 
+- Enter your details (you'll need to reenter your password) and wait.
 - LinkedIn will send you an email with details of how to obtain your data when the download is ready.
 
 **Pre-reading**:
