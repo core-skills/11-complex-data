@@ -1,4 +1,4 @@
-name: week11
+name: day11
 channels:
   - conda-forge
   - defaults
