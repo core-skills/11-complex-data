@@ -16,14 +16,15 @@
 
 ## Schedule
 
-| Start | End   | Agenda                                         |
-| -----:|:----- | ---------------------------------------------- |
-| 08:30 | 08:45 | Setup                                          |
-| 08:45 | 10:00 | **Genetic/Evolutionary Algorithms**            |
-| 10:00 | 10:30 | *Morning Tea*                                  |
-| 10:30 | 12:00 | **Time Series**                                |
-| 12:00 | 13:00 | *Lunch*                                        |
-| 13:00 | 14:30 | **Networks**                                   |
-| 14:30 | 15:00 | *Afternoon Tea*                                |
-| 15:00 | 16:30 | **Multivariate, Noisy and Nonstationary Data** |
-| 16:30 | 16:45 | **Closeout**                                   |
+
+|          AWST | AEST          | Agenda                                         |
+| -------------:|:------------- | ---------------------------------------------- |
+| 07:30 - 07:45 | 09:30 - 09:45 | Setup                                          |
+| 07:45 - 09:15 | 09:45 - 11:15 | **Genetic/Evolutionary Algorithms**            |
+| 09:15 - 09:30 | 11:15 - 11:30 | *Morning Tea*                                  |
+| 09:30 - 11:00 | 11:30 - 13:00 | **Time Series**                                |
+| 11:00 - 11:45 | 13:00 - 13:45 | *Lunch*                                        |
+| 11:45 - 13:15 | 13:45 - 15:15 | **Networks**                                   |
+| 13:15 - 13:30 | 15:15 - 15:30 | *Afternoon Tea*                                |
+| 13:30 - 14:45 | 15:30 - 16:45 | **Multivariate, Noisy and Nonstationary Data** |
+| 14:45 - 15:00 | 16:45 - 17:00 | **Closeout**                                   |
