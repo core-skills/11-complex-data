@@ -19,9 +19,7 @@ We will use python notebooks exercises on different datasets to have a practical
 
 For the complex network analysis, we will use **networkx**. You can find the documentation of  this package [here](https://networkx.github.io).
 
-Stack Overflow is a useful website to find solutions for when you get stuck with python and libraries:
-https://stackoverflow.com/questions/tagged/networkx
-https://stackoverflow.com/questions/tagged/gdal.
+Stack Overflow is a useful website to find solutions for when you get stuck with python and libraries: https://stackoverflow.com/questions/tagged/networkx 
 
 **LinkedIn Data**:
 
